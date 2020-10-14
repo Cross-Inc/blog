@@ -1,0 +1,14 @@
+html{
+    font-family: 'Commissioner', sans-serif;
+    background-color: black;
+    color: blue;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
